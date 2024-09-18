@@ -1,5 +1,4 @@
-# Terraform Provisioners Demo
-Deploying a flask app that shows top 25 animes using Terraform Provisioners
+# Deploying a flask app that shows top 25 animes using Terraform Provisioners
 
 → using provisioners we can make terraform to make things on resources
 
